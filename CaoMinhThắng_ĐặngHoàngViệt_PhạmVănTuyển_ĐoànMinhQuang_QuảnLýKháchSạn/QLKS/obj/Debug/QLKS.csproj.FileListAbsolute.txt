@@ -1,0 +1,143 @@
+C:\Users\thang\OneDrive\Máy tính\Đồ án WINFORM\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\thang\OneDrive\Máy tính\Đồ án WINFORM\QLKS\bin\Debug\QLKS.exe
+C:\Users\thang\OneDrive\Máy tính\Đồ án WINFORM\QLKS\bin\Debug\QLKS.pdb
+C:\Users\thang\OneDrive\Máy tính\Đồ án WINFORM\QLKS\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\thang\OneDrive\Máy tính\Đồ án WINFORM\QLKS\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\thang\OneDrive\Máy tính\Đồ án WINFORM\QLKS\obj\Debug\QLKS.fDangNhap.resources
+C:\Users\thang\OneDrive\Máy tính\Đồ án WINFORM\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\thang\OneDrive\Máy tính\Đồ án WINFORM\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\thang\OneDrive\Máy tính\Đồ án WINFORM\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\thang\OneDrive\Máy tính\Đồ án WINFORM\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+C:\Users\thang\OneDrive\Máy tính\Đồ án WINFORM\QLKS\obj\Debug\QLKS.exe
+C:\Users\thang\OneDrive\Máy tính\Đồ án WINFORM\QLKS\obj\Debug\QLKS.pdb
+C:\Users\thang\OneDrive\Máy tính\Đồ án WINFORM\QLKS\obj\Debug\QLKS.fDatLaiMK.resources
+C:\Users\thang\OneDrive\Máy tính\Đồ án WINFORM\QLKS\obj\Debug\QLKS.fThongTin.resources
+C:\Users\thang\OneDrive\Máy tính\Đồ án WINFORM\QLKS\obj\Debug\QLKS.fTroGiup.resources
+C:\Users\thang\OneDrive\Máy tính\Đồ án WINFORM\QLKS\obj\Debug\QLKS.fThongTinCN.resources
+C:\Users\thang\OneDrive\Máy tính\Đồ án WINFORM\QLKS\obj\Debug\QLKS.fThongKe.resources
+C:\Users\thang\OneDrive\Máy tính\Đồ án WINFORM\QLKS\obj\Debug\QLKS.fDichVu.resources
+C:\Users\thang\OneDrive\Máy tính\Đồ án WINFORM\QLKS\obj\Debug\QLKS.fKhachHang.resources
+C:\Users\thang\OneDrive\Máy tính\Đồ án WINFORM\QLKS\obj\Debug\QLKS.fTaiKhoan.resources
+C:\Users\thang\OneDrive\Máy tính\Đồ án WINFORM\QLKS\obj\Debug\QLKS.fQLKS.resources
+C:\Users\thang\OneDrive\Máy tính\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\thang\OneDrive\Máy tính\QLKS\obj\Debug\QLKS.fDangNhap.resources
+C:\Users\thang\OneDrive\Máy tính\QLKS\obj\Debug\QLKS.fDatLaiMK.resources
+C:\Users\thang\OneDrive\Máy tính\QLKS\obj\Debug\QLKS.fDichVu.resources
+C:\Users\thang\OneDrive\Máy tính\QLKS\obj\Debug\QLKS.fKhachHang.resources
+C:\Users\thang\OneDrive\Máy tính\QLKS\obj\Debug\QLKS.fLoaiTK.resources
+C:\Users\thang\OneDrive\Máy tính\QLKS\obj\Debug\QLKS.fPhong.resources
+C:\Users\thang\OneDrive\Máy tính\QLKS\obj\Debug\QLKS.fQLKS.resources
+C:\Users\thang\OneDrive\Máy tính\QLKS\obj\Debug\QLKS.fTaiKhoan.resources
+C:\Users\thang\OneDrive\Máy tính\QLKS\obj\Debug\QLKS.fThongKe.resources
+C:\Users\thang\OneDrive\Máy tính\QLKS\obj\Debug\QLKS.fThongTin.resources
+C:\Users\thang\OneDrive\Máy tính\QLKS\obj\Debug\QLKS.fThongTinCN.resources
+C:\Users\thang\OneDrive\Máy tính\QLKS\obj\Debug\QLKS.fTroGiup.resources
+C:\Users\thang\OneDrive\Máy tính\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\thang\OneDrive\Máy tính\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\thang\OneDrive\Máy tính\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\thang\OneDrive\Máy tính\QLKS\obj\Debug\QLKS.exe
+C:\Users\thang\OneDrive\Máy tính\QLKS\obj\Debug\QLKS.pdb
+C:\Users\thang\OneDrive\Máy tính\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\thang\OneDrive\Máy tính\QLKS\bin\Debug\QLKS.exe
+C:\Users\thang\OneDrive\Máy tính\QLKS\bin\Debug\QLKS.pdb
+C:\Users\thang\OneDrive\Máy tính\QLKS\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\thang\OneDrive\Máy tính\QLKS\bin\Debug\EntityFramework.dll
+C:\Users\thang\OneDrive\Máy tính\QLKS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thang\OneDrive\Máy tính\QLKS\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\thang\OneDrive\Máy tính\QLKS\bin\Debug\EntityFramework.xml
+C:\Users\thang\OneDrive\Máy tính\QLKS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thang\OneDrive\Máy tính\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+C:\Users\thang\OneDrive\Máy tính\WF\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\thang\OneDrive\Máy tính\WF\QLKS\obj\Debug\QLKS.fDangNhap.resources
+C:\Users\thang\OneDrive\Máy tính\WF\QLKS\obj\Debug\QLKS.fDatLaiMK.resources
+C:\Users\thang\OneDrive\Máy tính\WF\QLKS\obj\Debug\QLKS.fDichVu.resources
+C:\Users\thang\OneDrive\Máy tính\WF\QLKS\obj\Debug\QLKS.fKhachHang.resources
+C:\Users\thang\OneDrive\Máy tính\WF\QLKS\obj\Debug\QLKS.fLoaiTK.resources
+C:\Users\thang\OneDrive\Máy tính\WF\QLKS\obj\Debug\QLKS.fPhong.resources
+C:\Users\thang\OneDrive\Máy tính\WF\QLKS\obj\Debug\QLKS.fQLKS.resources
+C:\Users\thang\OneDrive\Máy tính\WF\QLKS\obj\Debug\QLKS.fTaiKhoan.resources
+C:\Users\thang\OneDrive\Máy tính\WF\QLKS\obj\Debug\QLKS.fThongKe.resources
+C:\Users\thang\OneDrive\Máy tính\WF\QLKS\obj\Debug\QLKS.fThongTin.resources
+C:\Users\thang\OneDrive\Máy tính\WF\QLKS\obj\Debug\QLKS.fThongTinCN.resources
+C:\Users\thang\OneDrive\Máy tính\WF\QLKS\obj\Debug\QLKS.fTroGiup.resources
+C:\Users\thang\OneDrive\Máy tính\WF\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\thang\OneDrive\Máy tính\WF\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\thang\OneDrive\Máy tính\WF\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\thang\OneDrive\Máy tính\WF\QLKS\obj\Debug\QLKS.exe
+C:\Users\thang\OneDrive\Máy tính\WF\QLKS\obj\Debug\QLKS.pdb
+C:\Users\thang\OneDrive\Máy tính\WF\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\thang\OneDrive\Máy tính\WF\QLKS\bin\Debug\QLKS.exe
+C:\Users\thang\OneDrive\Máy tính\WF\QLKS\bin\Debug\QLKS.pdb
+C:\Users\thang\OneDrive\Máy tính\WF\QLKS\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\thang\OneDrive\Máy tính\WF\QLKS\bin\Debug\EntityFramework.dll
+C:\Users\thang\OneDrive\Máy tính\WF\QLKS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thang\OneDrive\Máy tính\WF\QLKS\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\thang\OneDrive\Máy tính\WF\QLKS\bin\Debug\EntityFramework.xml
+C:\Users\thang\OneDrive\Máy tính\WF\QLKS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thang\OneDrive\Máy tính\WF\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+C:\Users\thang\OneDrive\Máy tính\Đồ án WINFORM\QLKS\bin\Debug\EntityFramework.dll
+C:\Users\thang\OneDrive\Máy tính\Đồ án WINFORM\QLKS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thang\OneDrive\Máy tính\Đồ án WINFORM\QLKS\bin\Debug\EntityFramework.xml
+C:\Users\thang\OneDrive\Máy tính\Đồ án WINFORM\QLKS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thang\OneDrive\Máy tính\Đồ án WINFORM\QLKS\obj\Debug\QLKS.fQLPhong.resources
+C:\Users\thang\OneDrive\Máy tính\Đồ án WINFORM\QLKS\obj\Debug\QLKS.fDatPhong.resources
+C:\Users\thang\OneDrive\Máy tính\Đồ án WINFORM\QLKS\obj\Debug\QLKS.fHoaDon.resources
+C:\Users\thang\OneDrive\Máy tính\Đồ án WINFORM\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng-ĐặngHoàngViệt-PhạmVănTuyển-ĐoànMinhQuang-QuảnLýKháchSạn\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng-ĐặngHoàngViệt-PhạmVănTuyển-ĐoànMinhQuang-QuảnLýKháchSạn\QLKS\bin\Debug\QLKS.exe
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng-ĐặngHoàngViệt-PhạmVănTuyển-ĐoànMinhQuang-QuảnLýKháchSạn\QLKS\bin\Debug\QLKS.pdb
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng-ĐặngHoàngViệt-PhạmVănTuyển-ĐoànMinhQuang-QuảnLýKháchSạn\QLKS\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng-ĐặngHoàngViệt-PhạmVănTuyển-ĐoànMinhQuang-QuảnLýKháchSạn\QLKS\bin\Debug\EntityFramework.dll
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng-ĐặngHoàngViệt-PhạmVănTuyển-ĐoànMinhQuang-QuảnLýKháchSạn\QLKS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng-ĐặngHoàngViệt-PhạmVănTuyển-ĐoànMinhQuang-QuảnLýKháchSạn\QLKS\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng-ĐặngHoàngViệt-PhạmVănTuyển-ĐoànMinhQuang-QuảnLýKháchSạn\QLKS\bin\Debug\EntityFramework.xml
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng-ĐặngHoàngViệt-PhạmVănTuyển-ĐoànMinhQuang-QuảnLýKháchSạn\QLKS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng-ĐặngHoàngViệt-PhạmVănTuyển-ĐoànMinhQuang-QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng-ĐặngHoàngViệt-PhạmVănTuyển-ĐoànMinhQuang-QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.fDangNhap.resources
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng-ĐặngHoàngViệt-PhạmVănTuyển-ĐoànMinhQuang-QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.fDatLaiMK.resources
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng-ĐặngHoàngViệt-PhạmVănTuyển-ĐoànMinhQuang-QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.fDatPhong.resources
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng-ĐặngHoàngViệt-PhạmVănTuyển-ĐoànMinhQuang-QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.fDichVu.resources
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng-ĐặngHoàngViệt-PhạmVănTuyển-ĐoànMinhQuang-QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.fHoaDon.resources
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng-ĐặngHoàngViệt-PhạmVănTuyển-ĐoànMinhQuang-QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.fKhachHang.resources
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng-ĐặngHoàngViệt-PhạmVănTuyển-ĐoànMinhQuang-QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.fQLKS.resources
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng-ĐặngHoàngViệt-PhạmVănTuyển-ĐoànMinhQuang-QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.fQLPhong.resources
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng-ĐặngHoàngViệt-PhạmVănTuyển-ĐoànMinhQuang-QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.fTaiKhoan.resources
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng-ĐặngHoàngViệt-PhạmVănTuyển-ĐoànMinhQuang-QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.fThongKe.resources
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng-ĐặngHoàngViệt-PhạmVănTuyển-ĐoànMinhQuang-QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.fThongTin.resources
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng-ĐặngHoàngViệt-PhạmVănTuyển-ĐoànMinhQuang-QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.fThongTinCN.resources
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng-ĐặngHoàngViệt-PhạmVănTuyển-ĐoànMinhQuang-QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.fTroGiup.resources
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng-ĐặngHoàngViệt-PhạmVănTuyển-ĐoànMinhQuang-QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng-ĐặngHoàngViệt-PhạmVănTuyển-ĐoànMinhQuang-QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng-ĐặngHoàngViệt-PhạmVănTuyển-ĐoànMinhQuang-QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng-ĐặngHoàngViệt-PhạmVănTuyển-ĐoànMinhQuang-QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng-ĐặngHoàngViệt-PhạmVănTuyển-ĐoànMinhQuang-QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.exe
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng-ĐặngHoàngViệt-PhạmVănTuyển-ĐoànMinhQuang-QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.pdb
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng_ĐặngHoàngViệt_PhạmVănTuyển_ĐoànMinhQuang_QuảnLýKháchSạn\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng_ĐặngHoàngViệt_PhạmVănTuyển_ĐoànMinhQuang_QuảnLýKháchSạn\QLKS\bin\Debug\QLKS.exe
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng_ĐặngHoàngViệt_PhạmVănTuyển_ĐoànMinhQuang_QuảnLýKháchSạn\QLKS\bin\Debug\QLKS.pdb
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng_ĐặngHoàngViệt_PhạmVănTuyển_ĐoànMinhQuang_QuảnLýKháchSạn\QLKS\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng_ĐặngHoàngViệt_PhạmVănTuyển_ĐoànMinhQuang_QuảnLýKháchSạn\QLKS\bin\Debug\EntityFramework.dll
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng_ĐặngHoàngViệt_PhạmVănTuyển_ĐoànMinhQuang_QuảnLýKháchSạn\QLKS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng_ĐặngHoàngViệt_PhạmVănTuyển_ĐoànMinhQuang_QuảnLýKháchSạn\QLKS\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng_ĐặngHoàngViệt_PhạmVănTuyển_ĐoànMinhQuang_QuảnLýKháchSạn\QLKS\bin\Debug\EntityFramework.xml
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng_ĐặngHoàngViệt_PhạmVănTuyển_ĐoànMinhQuang_QuảnLýKháchSạn\QLKS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng_ĐặngHoàngViệt_PhạmVănTuyển_ĐoànMinhQuang_QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.csprojAssemblyReference.cache
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng_ĐặngHoàngViệt_PhạmVănTuyển_ĐoànMinhQuang_QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.fDangNhap.resources
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng_ĐặngHoàngViệt_PhạmVănTuyển_ĐoànMinhQuang_QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.fDatLaiMK.resources
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng_ĐặngHoàngViệt_PhạmVănTuyển_ĐoànMinhQuang_QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.fDatPhong.resources
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng_ĐặngHoàngViệt_PhạmVănTuyển_ĐoànMinhQuang_QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.fDichVu.resources
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng_ĐặngHoàngViệt_PhạmVănTuyển_ĐoànMinhQuang_QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.fHoaDon.resources
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng_ĐặngHoàngViệt_PhạmVănTuyển_ĐoànMinhQuang_QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.fKhachHang.resources
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng_ĐặngHoàngViệt_PhạmVănTuyển_ĐoànMinhQuang_QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.fQLKS.resources
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng_ĐặngHoàngViệt_PhạmVănTuyển_ĐoànMinhQuang_QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.fQLPhong.resources
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng_ĐặngHoàngViệt_PhạmVănTuyển_ĐoànMinhQuang_QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.fTaiKhoan.resources
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng_ĐặngHoàngViệt_PhạmVănTuyển_ĐoànMinhQuang_QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.fThongKe.resources
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng_ĐặngHoàngViệt_PhạmVănTuyển_ĐoànMinhQuang_QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.fThongTin.resources
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng_ĐặngHoàngViệt_PhạmVănTuyển_ĐoànMinhQuang_QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.fThongTinCN.resources
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng_ĐặngHoàngViệt_PhạmVănTuyển_ĐoànMinhQuang_QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.fTroGiup.resources
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng_ĐặngHoàngViệt_PhạmVănTuyển_ĐoànMinhQuang_QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng_ĐặngHoàngViệt_PhạmVănTuyển_ĐoànMinhQuang_QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng_ĐặngHoàngViệt_PhạmVănTuyển_ĐoànMinhQuang_QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng_ĐặngHoàngViệt_PhạmVănTuyển_ĐoànMinhQuang_QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.csproj.CopyComplete
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng_ĐặngHoàngViệt_PhạmVănTuyển_ĐoànMinhQuang_QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.exe
+C:\Users\thang\OneDrive\Máy tính\CaoMinhThắng_ĐặngHoàngViệt_PhạmVănTuyển_ĐoànMinhQuang_QuảnLýKháchSạn\QLKS\obj\Debug\QLKS.pdb
